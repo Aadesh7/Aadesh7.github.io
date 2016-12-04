@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>CV</title>
+</head>
+<style>
+    td,tr,th{border: 1px solid black}
+</style>
+<body bgcolor="white">
+<h1> Bio-data of Aadesh Dhakal</h1>
+<img src="abc.jpg", height="500" width="400" align="right" >
+
+<table style="border: 1px solid black; width: 60px">
+    <caption>bio-data</caption>
+    <tr><th>Name</th> <td>Aadesh Dhakal</td></tr>
+    <tr><th>Birthdate</th><td>2055/10/15</td></tr>
+    <tr><th>Birthplace</th><td>Kathmandu, Nepal</td></tr>
+    <tr><th>Father's name</th><td>Achyut Dhakal</td></tr>
+    <tr><th>Mother's name</th><td>Kamala Dhakal</td></tr>
+    <tr><th>Permanent address</th><td>Boudha6, Kathmandu</td></tr>
+    <tr><th>contact no.</th><td>9060080299</td></tr>
+    <tr><th>email address</th><td>adeutd7@gmail.com</td></tr>
+    <tr><th>marital status</th><td>unmarried</td></tr>
+</table>
+<h2>Academic Qualifications</h2>
+<table style="border: 1px solid black; width: 60px">
+    <caption>Education</caption>
+    <tr><th>10th grade (SLC board)</th><td>Arunima Higher Secondary School</td><td>86.63</td></tr>
+    <tr><th>+2 level (HSEB board)</th><td>Capital College and Research Centre</td><td>79.1%</td></tr>
+
+</table>
+<h2>Other achievements</h2>
+<ol style="list-style-type: square">
+    <li>Donated blood three times.</li>
+    <li>Currently studying bachelors in BSc. csit in DWIT.</li>
+    <li>Acquired executive membership in CCRC IT club.</li>
+
+</ol>
+
+
+</body>
+</html>
